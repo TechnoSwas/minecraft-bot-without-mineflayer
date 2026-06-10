@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-bot-without-mineflayer",
+  "version": "1.0.0",
+  "description": "Simple Minecraft bot using node-minecraft-protocol",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "minecraft-protocol": "latest",
+    "prismarine-chat": "latest"
+  }
+}
